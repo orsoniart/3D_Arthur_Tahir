@@ -1,4 +1,4 @@
-# 3D_Arthur_Tahir Firmware – C Projekt
+# C Projekt
 
 ##  Autoren
 Arthur & Tahir
