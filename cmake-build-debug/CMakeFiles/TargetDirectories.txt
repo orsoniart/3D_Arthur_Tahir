@@ -1,0 +1,4 @@
+C:/Users/orson/CLionProjects/3D_Arthur_Tahir/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/orson/CLionProjects/3D_Arthur_Tahir/cmake-build-debug/CMakeFiles/Testfunktionen.dir
+C:/Users/orson/CLionProjects/3D_Arthur_Tahir/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/orson/CLionProjects/3D_Arthur_Tahir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
