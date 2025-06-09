@@ -17,7 +17,6 @@ Der Fokus lag auf:
 - Benutzerfreundlicher Menüführung via Konsole
 - Automatisierbaren Tests zur Nachvollziehbarkeit aller Abläufe
 
-Dieses Projekt erfüllt alle funktionalen und qualitativen Bewertungspunkte gemäß Aufgabenstellung.
 
 ##  Funktionen im Überblick
 - **Files suchen**  
